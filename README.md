@@ -78,6 +78,15 @@
 
 ---
 
+## Screenshots
+
+- Sidebar + Map
+  ![sidebar-map](assets/images/light.png)
+
+- Dark Mode
+  ![dark-mode](assets/images/dark.png)
+
+---
 
 ## 🛠️ Technologies Used
 
